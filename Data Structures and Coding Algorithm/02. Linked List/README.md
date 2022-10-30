@@ -5,7 +5,7 @@
   - Language MUST be C++ or C
   - If Possible give a commented code for better understanding
   - The problem should not exist already
-  - If existing , then your code MUST
+  - If existing , then your code MUST be
       - increase the reabibility
       - Decrease complexity - either space or time
   - Name of file should be descriptive for example `sum_of_two_numbers.cpp` (all lower case letters)
